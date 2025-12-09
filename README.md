@@ -1,6 +1,6 @@
 # Tutubeee 图片整理助手
 
-<img width="1536" height="2761" alt="image" src="https://github.com/user-attachments/assets/c87f672d-fa97-4100-8938-85c37a04e223" />
+<img width="2890" height="3303" alt="image" src="https://github.com/user-attachments/assets/82472b3d-8d61-46e1-a720-9b0df8776670" />
 
 
 一款可以快速让原本杂乱无章的图片进行分类整理的工具，使用户可以方便对安卓手机中的照片或图片进行整理归档以及备份。
